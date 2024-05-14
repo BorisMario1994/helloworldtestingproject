@@ -9,3 +9,14 @@ C:\Users\Administrator\documents\visual studio 2015\Projects\Hello\Hello\obj\Deb
 C:\Users\Administrator\documents\visual studio 2015\Projects\Hello\Hello\obj\Debug\Hello.exe
 C:\Users\Administrator\documents\visual studio 2015\Projects\Hello\Hello\obj\Debug\Hello.xml
 C:\Users\Administrator\documents\visual studio 2015\Projects\Hello\Hello\obj\Debug\Hello.pdb
+C:\Users\Administrator\Documents\Projects\helloworldtestingproject\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\Administrator\Documents\Projects\helloworldtestingproject\Hello\Hello\obj\Debug\Hello.exe
+C:\Users\Administrator\Documents\Projects\helloworldtestingproject\Hello\Hello\obj\Debug\Hello.xml
+C:\Users\Administrator\Documents\Projects\helloworldtestingproject\Hello\Hello\obj\Debug\Hello.pdb
+C:\Users\Administrator\Documents\Projects\helloworldtestingproject\Hello\Hello\bin\Debug\Hello.exe
+C:\Users\Administrator\Documents\Projects\helloworldtestingproject\Hello\Hello\bin\Debug\Hello.pdb
+C:\Users\Administrator\Documents\Projects\helloworldtestingproject\Hello\Hello\bin\Debug\Hello.xml
+C:\Users\Administrator\Documents\Projects\helloworldtestingproject\Hello\Hello\obj\Debug\Hello.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Projects\helloworldtestingproject\Hello\Hello\obj\Debug\Hello.Form1.resources
+C:\Users\Administrator\Documents\Projects\helloworldtestingproject\Hello\Hello\obj\Debug\Hello.Resources.resources
+C:\Users\Administrator\Documents\Projects\helloworldtestingproject\Hello\Hello\obj\Debug\Hello.vbproj.GenerateResource.Cache
